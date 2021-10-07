@@ -16,5 +16,3 @@ sleep 10
 
 mkdir -p $FOLDER'/'$YEAR'/'$MONTH
 mv -f $FOLDER'/EJZ_'$TODAY'.pdf' $FOLDER'/'$YEAR'/'$MONTH'/EJZ_'$TODAY'.pdf'
-
-FILE=$FOLDER'/'$YEAR'/'$MONTH'/EJZ_'$TODAY'.pdf'
