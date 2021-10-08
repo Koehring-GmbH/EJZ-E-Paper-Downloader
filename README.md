@@ -1,4 +1,4 @@
-# EJZ-E-Paper-Downloader
+# EJZ E-Paper Downloader
 
 Benutzer und Passwort entnehmen sie Ihrem EJZ-Konto.
 
